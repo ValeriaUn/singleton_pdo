@@ -1,0 +1,1 @@
+<h1>Singleton for PDO</h1>
